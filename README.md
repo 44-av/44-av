@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @44-av
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on machine learning
+- 🌱 I’m currently learning Front- end Development
+- 💞️ I’m looking to collaborate on developing any application or systems
 - 📫 How to reach me? Email me at arianevillalino@gmail.com
 
 <!---
