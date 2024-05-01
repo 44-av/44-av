@@ -6,7 +6,7 @@ I’m interested in developing software applications. I'm using private reposito
   <a href="https://www.linkedin.com/in/ariane-v-9aa166236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/its.yannnaaaaa?igsh=MTZybWxrdjkxNmt4Yw%3D%3D&utm_source=qr">
+  <a href="https://www.instagram.com/its.yannnaaaaa?igsh=MXdjb2dyOWlxdGVn">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=#C13584" alt="Instagram Badge"/>
   </a>
 
