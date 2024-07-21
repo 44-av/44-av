@@ -1,6 +1,6 @@
 
 ## 👋Hi, I'm Ariane Villalino
-I’m interested in developing software applications. I'm using private repositories to work on my projects at the moment.
+Passionate about exploring various IT fields and committed to continuous learning. I also enjoy outdoor adventures with friends.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ariane-v-9aa166236/">
