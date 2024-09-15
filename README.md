@@ -1,6 +1,27 @@
-
 ## 👋Hi, I'm Ariane Villalino
-Passionate about exploring various IT fields and committed to continuous learning. I also enjoy outdoor adventures with friends.
+I'm a web and mobile developer with experience in building responsive, efficient, and scalable applications.
+
+## 🚀 Tech Stack
+
+### 🌐 Web Development
+- **JavaScript Frameworks**: React.js, and Angular
+- **PHP Framework**: Laravel
+- **CSS Frameworks**: Tailwind CSS, Bootstrap, SCSS
+- **Back-End**: Firebase (serverless), MySQL (relational)
+
+### 📱 Mobile Development
+- **Flutter**: Cross-platform apps (iOS & Android)
+- **React Native**: Flexible and scalable mobile development
+- **Android Development (Java)**: Native Android apps in Android Studio
+
+## 🛠 Tools
+- **Version Control**: Git, GitHub
+- **Deployment**: Firebase Hosting, Vercel, Netlify
+- **IDEs**: VS Code, Android Studio
+
+Always learning new things—currently exploring AI with Next.js and other frameworks.
+
+---
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ariane-v-9aa166236/">
