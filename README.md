@@ -24,7 +24,7 @@ Always learning new things—currently exploring AI with Next.js and other frame
 ---
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ariane-v-9aa166236/">
+  <a href="https://www.linkedin.com/in/ariane-v/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/its.yannnaaaaa?igsh=MXdjb2dyOWlxdGVn">
